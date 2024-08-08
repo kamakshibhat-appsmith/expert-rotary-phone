@@ -20,7 +20,7 @@
       },
       "ttgwsqgbaw": {
         "controlType": "INPUT_TEXT",
-        "defaultValue": "[]",
+        "defaultValue": "[\"{{1}}\",\"{{1}}\"]",
         "id": "ttgwsqgbaw",
         "label": "myFun1",
         "propertyName": "inputs.myFun1"
@@ -28,6 +28,6 @@
     },
     "name": "JSModule12",
     "pageId": "Page1",
-    "version": "0.0.3"
+    "version": "0.0.5"
   }
 }
